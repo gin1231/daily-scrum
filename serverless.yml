@@ -3,9 +3,9 @@ frameworkVersion: '3'
 
 provider:
   name: aws
-  runtime: nodejs14.x
   region: ap-northeast-2
   profile: gin1231
+  runtime: nodejs14.x
 
 functions:
   hello:
